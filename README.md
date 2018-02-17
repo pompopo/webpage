@@ -9,5 +9,5 @@ npm install
 ### 開発
 npm start
 
-### リリース用ににビルド
+### リリース用にビルド
 npm run build
