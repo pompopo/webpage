@@ -11,3 +11,7 @@ npm start
 
 ### リリース用にビルド
 npm run build
+
+### nowでデプロイ
+npm run deploy
+https://zeit.co/now
